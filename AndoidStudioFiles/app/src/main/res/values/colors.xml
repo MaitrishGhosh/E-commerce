@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#526ab9</color>
+    <color name="colorPrimaryDark">#526ab9</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+<!--    Text Color-->
+    <color name="textColor">#474342</color>
+
+<!--    Dashboard Colours-->
+    <color name="search_background">#ffffff</color>
+    <!--    Background-->
+        <color name="home_background">#ffffff</color>
+        <color name="banner_background">#f0e9e9</color>
+        <color name="banner_background_light">#56F1E9CE</color>
+
+    <!--    Card Colours-->
+        <color name="card1">#cb4654</color>
+        <color name="card2">#526ab9</color>
+        <color name="card3">#5fdc90</color>
+        <color name="card4">#F8E32D</color>
+
+<!--    Selected Item Colour-->
+    <color name="buybtn">#4d6ee8</color>
+    <color name="btndefault">#57C4C7D8</color>
+
+</resources>
